@@ -34,6 +34,7 @@ while True:
 
     elif user_input == computer_pick:
         print("Tied match, no one scores a point!")
+        ties += 1
 
     else:
         print("You lost!")
