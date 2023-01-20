@@ -37,5 +37,5 @@ if answer.lower() == "power supply unit":
 else:
     print("Sorry! That is incorrect.")
 
-print("You got "+ str(score) +" questions correct!")
-print("You got "+ str((score / 4) * 100) +"%.")
+print("You got " + str(score) + " questions correct!")
+print("You got " + str((score / 4) * 100) + "%.")
